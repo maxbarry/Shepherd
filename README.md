@@ -1,5 +1,5 @@
 # Shepherd
-Shepherd (Australian TV Electronic Program Guide)
+Shepherd (Australian TV Electronic Program Guide) a.k.a. tv_grab_au
 
 **This is an obsolete version.** It is basically a snapshot of the codebase as it was in 2011.
 
