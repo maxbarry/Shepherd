@@ -5,6 +5,6 @@ Shepherd (Australian TV Electronic Program Guide) a.k.a. tv_grab_au
 
 Original Shepherd is no longer actively maintained. To get it up and running in 2018, you have two options:
 
-1. Use the Perkins fork (officially endorsed): https://shepherd.tv/
+1. Use the Perkins fork: https://shepherd.tv/
 
-2. Use the Xander Victory fork: https://github.com/ShephedProject/shepherd/wiki/Installation
+2. Use the Xander Victory fork: https://github.com/ShephedProject/shepherd
